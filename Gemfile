@@ -40,3 +40,5 @@ group :test do
 	gem 'cucumber-rails' 
 	gem 'capybara'
 end
+
+gem 'dynamic_form'
