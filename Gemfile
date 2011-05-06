@@ -40,6 +40,7 @@ group :test do
 	gem 'cucumber-rails' 
 	gem 'capybara'
 	gem 'factory_girl_rails'
+	gem 'email_spec'
 end
 
 gem 'dynamic_form'
