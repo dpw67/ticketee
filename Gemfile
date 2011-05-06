@@ -43,3 +43,4 @@ group :test do
 end
 
 gem 'dynamic_form'
+gem 'devise', '1.2.rc'
