@@ -39,6 +39,7 @@ group :test do
 	gem 'database_cleaner'
 	gem 'cucumber-rails' 
 	gem 'capybara'
+	gem 'factory_girl_rails'
 end
 
 gem 'dynamic_form'
