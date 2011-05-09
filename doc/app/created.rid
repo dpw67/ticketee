@@ -1,0 +1,15 @@
+Mon, 09 May 2011 01:05:53 -0500
+doc/README_FOR_APP	Tue, 03 May 2011 11:11:43 -0500
+app/controllers/admin/base_controller.rb	Sun, 08 May 2011 19:44:20 -0500
+app/controllers/admin/users_controller.rb	Mon, 09 May 2011 00:14:14 -0500
+app/controllers/application_controller.rb	Sun, 08 May 2011 17:33:52 -0500
+app/controllers/projects_controller.rb	Sun, 08 May 2011 17:35:20 -0500
+app/controllers/tickets_controller.rb	Fri, 06 May 2011 18:24:41 -0500
+app/helpers/admin/users_helper.rb	Sun, 08 May 2011 18:55:25 -0500
+app/helpers/application_helper.rb	Sun, 08 May 2011 18:25:47 -0500
+app/helpers/projects_helper.rb	Thu, 05 May 2011 01:22:28 -0500
+app/helpers/tickets_helper.rb	Fri, 06 May 2011 10:52:39 -0500
+app/models/permission.rb	Mon, 09 May 2011 00:36:44 -0500
+app/models/project.rb	Fri, 06 May 2011 11:05:41 -0500
+app/models/ticket.rb	Fri, 06 May 2011 18:26:07 -0500
+app/models/user.rb	Sun, 08 May 2011 23:31:12 -0500
